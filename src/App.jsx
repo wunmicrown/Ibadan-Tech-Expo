@@ -10,6 +10,7 @@ import SpeakerFace from './Component/SpeakerFace'
 import Ticket from './Component/Ticket'
 import TicketStandard from './Component/TicketStandard'
 import GoldSponsors from './Component/GoldSponsors'
+import TechPrice from './Component/TechPrice'
 
 
 const App = () => {
@@ -27,6 +28,7 @@ const App = () => {
     <Ticket/>
     <TicketStandard/>
     <GoldSponsors/>
+    <TechPrice/>
     </>
   )
 }
