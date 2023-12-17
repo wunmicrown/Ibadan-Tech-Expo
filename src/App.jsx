@@ -8,6 +8,7 @@ import Venue from './Component/Venue'
 import ConferenceCenter from './Component/ConferenceCenter'
 import SpeakerFace from './Component/SpeakerFace'
 import Ticket from './Component/Ticket'
+import TicketStandard from './Component/TicketStandard'
 
 
 const App = () => {
@@ -23,6 +24,7 @@ const App = () => {
     <ConferenceCenter/>
     <SpeakerFace/>
     <Ticket/>
+    <TicketStandard/>
     </>
   )
 }
