@@ -1,6 +1,6 @@
 import React from "react";
-import image from "../assets/image-folder/ibadan-img.svg";
-import line from "../assets/image-folder/line-img1.svg";
+import image from "../assets/image-folder/ibd.svg";
+import line from "../assets/image-folder/line.svg";
 import star from "../assets/image-folder/star.svg";
 const DetailsSection = () => {
   return (

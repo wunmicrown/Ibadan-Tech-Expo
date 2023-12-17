@@ -1,6 +1,6 @@
 import React from 'react'
 import './Main.css'
-import img from '../assets/image-folder/logo-img.svg'
+import img from '../assets/image-folder/logo.svg'
 
 const Navbar = ({isStrue, setisStrue}) => {
     const handleIsTrue = () => {

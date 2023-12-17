@@ -1,5 +1,5 @@
 import React from 'react'
-import ibdTechImg from '../assets/image-folder/about-ibd-tech.svg'
+import ibdTechImg from '../assets/image-folder/tit.svg'
 import posterImg from '../assets/image-folder/Poster.svg'
 const AboutTechExpo = () => {
     return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import SpeakerOne from '../assets/image-folder/PSpeaker1.png'
+import SpeakerOne from '../assets/image-folder/PSpeaker.png'
 import SpeakerTwo from '../assets/image-folder/PSpeaker2.png'
 import SpeakerThree from '../assets/image-folder/PSpeaker3.png'
 import SpeakerFour from '../assets/image-folder/PSpeaker6.png'

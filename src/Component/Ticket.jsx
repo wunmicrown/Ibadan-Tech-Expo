@@ -1,5 +1,5 @@
 import React from 'react';
-import TicketCard from '../assets/image-folder/ticket.svg';
+import TicketCard from '../assets/image-folder/tickets.svg';
 
 const Ticket = () => {
   return (

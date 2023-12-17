@@ -1,5 +1,5 @@
 import React from 'react'
-import TwitterIconImg from '../assets/image-folder/twit.svg'
+import TwitterIconImg from '../assets/image-folder/tit.svg'
 import FacebookIconImg from '../assets/image-folder/face.svg'
 import LinkdinIconImg from '../assets/image-folder/link.svg'
 const Footer = () => {
