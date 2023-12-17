@@ -5,6 +5,7 @@ import DetailsSection from './Component/DetailsSection'
 import AboutTechExpo from './Component/AboutTechExpo'
 import VenueInfo from './Component/VenueInfo'
 import Venue from './Component/Venue'
+import ConferenceCenter from './Component/ConferenceCenter'
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
     <AboutTechExpo/>
     <VenueInfo/>
     <Venue/>
+    <ConferenceCenter/>
     </>
   )
 }
