@@ -14,6 +14,7 @@ import TechPrice from './Component/TechPrice'
 import Partners from './Component/Partners'
 import MediaPartners from './Component/MediaPartners'
 import CommunityPartners from './Component/CommunityPartners'
+import Footer from './Component/Footer'
 
 
 const App = () => {
@@ -35,6 +36,7 @@ const App = () => {
     <Partners/>
     <MediaPartners/>
     <CommunityPartners/>
+    <Footer/>
     </>
   )
 }
