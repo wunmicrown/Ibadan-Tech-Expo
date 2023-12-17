@@ -42,6 +42,7 @@ const ConferenceCenter = () => {
                 <h1 className='sm:text-4xl lg:text-7xl font-extrabold'>SPEAKERS</h1>
                 <p className='text-xs font-medium'>VIEW ALL SPEAKERS</p>
             </section>
+            
         </>
     )
 }
