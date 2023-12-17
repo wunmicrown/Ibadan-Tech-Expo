@@ -13,6 +13,7 @@ import GoldSponsors from './Component/GoldSponsors'
 import TechPrice from './Component/TechPrice'
 import Partners from './Component/Partners'
 import MediaPartners from './Component/MediaPartners'
+import CommunityPartners from './Component/CommunityPartners'
 
 
 const App = () => {
@@ -33,6 +34,7 @@ const App = () => {
     <TechPrice/>
     <Partners/>
     <MediaPartners/>
+    <CommunityPartners/>
     </>
   )
 }
